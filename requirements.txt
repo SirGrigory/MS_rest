@@ -1,0 +1,13 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+autopep8==1.6.0
+certifi==2021.10.8
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+django-filter==21.1
+djangorestframework==3.12.4
+psycopg2==2.9.1
+pycodestyle==2.8.0
+pytz==2021.3
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+toml==0.10.2
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+wincertstore==0.2
